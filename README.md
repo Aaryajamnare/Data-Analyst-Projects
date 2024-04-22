@@ -18,8 +18,5 @@ Through effective navigation and interactive elements, users can seamlessly expl
 •	Project Description : Developed Pizza Sales Dashboard using Power BI and MS SQL Server, providing real-time insights into revenue, sales volume, and popular items. Enhanced data visualization and interactivity for actionable business intelligence. Enabled data-driven decision-making through dynamic filtering and analysis tools.
 •	Charts/KPI’s used : Total Revenue, Avg order value, Total Orders, Avg Pizza’s per order, Daily trend for total orders, Hourly trend for total orders, Percentage of sales by pizzas Category, Percentage of sales by pizza size, Total pizza sold by pizza category, Top  5 best sellers by total pizza sold, Bottom 5 worst sellers by total pizza sold
 
-4.	Road Accident dashboard
-•	Tool : Excel
-•	Project Description : Created a comprehensive Road Accident Dashboard in Excel, encompassing data cleaning, processing, analysis and visualisation. Implemented data cleaning techniques to ensure accuracy. Utilized advanced data processing methods for thorough analysis. Developed insightful visualizations to highlight key trends and patterns. Generated detailed reports for stakeholders, facilitating informed decision-making and road safety improvements.
-•	Charts/KPI’s used : Total casualties taken place after accidents, Total casualties and % of total with respect to accident severity and maximum casualties by type of vehicle, Total casualties w.r.t vehicle type, Monthly trend showing comparison for CY and PY, Maximum casualties by road type, Distribution of total casualties by road surface.
+
 
